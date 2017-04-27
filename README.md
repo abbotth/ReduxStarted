@@ -35,6 +35,9 @@ Link all
 <p>
 Run App
 	<blockquote>
+		<strong>react-native start</strong>
+	</blockquote>
+	<blockquote>
 		<strong>react-native run-android</strong>  or <strong>react-native run-ios</strong>
 	</blockquote>
 </p>
