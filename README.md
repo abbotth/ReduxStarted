@@ -1,22 +1,22 @@
 React Native With Redux
 Install
 <p>
-	<quote>
+	<blockquote>
 		<strong>yarn install</strong> or <strong>npm install</strong>
 		<br/>
-	</quote>
+	</blockquote>
 </p>
 <p>
 	Open app.json and rename App Name and Display Name then run command:
 </p>
 <p>
-	<quote>
+	<blockquote>
 		<strong>react-native eject</strong>
-	</quote>
+	</blockquote>
 </p>
 Link all
 <p>
-	<quote>
+	<blockquote>
 		<strong>react-native link</strong>
-	</quote>
+	</blockquote>
 </p>
