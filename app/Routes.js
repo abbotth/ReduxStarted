@@ -1,0 +1,26 @@
+/**
+ *
+ */
+import React, {Component} from 'react';
+import {
+    StyleSheet,
+    View,
+    Text
+} from 'react-native';
+
+class Routes extends Component {
+    render() {
+        return (
+            <View style={styles.container}>
+                <Text>Routes</Text>
+            </View>
+        );
+    }
+}
+const styles = StyleSheet.create({
+    container: {
+        flex: 1
+    }
+});
+
+export default Routes;
