@@ -25,3 +25,10 @@ Link all
 		<strong>react-native link</strong>
 	</blockquote>
 </p>
+
+<p>
+Run App
+	<blockquote>
+		<strong>react-native run-android or react-native run-ios</strong>
+	</blockquote>
+</p>
