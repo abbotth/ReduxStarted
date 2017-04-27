@@ -1,4 +1,4 @@
-React Native With Redux
+React Native With Redux <br/>
 Install
 <p>
 	<blockquote>
