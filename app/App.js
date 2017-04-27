@@ -12,8 +12,8 @@ class App extends Component {
     render() {
         return (
             <View
-                style={styles.container
-                }>
+                style={styles.container}
+            >
                 <Text> App </ Text >
             </View >
         );
