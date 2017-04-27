@@ -2,5 +2,5 @@ import {
     AppRegistry
 } from 'react-native';
 import App from './app/App';
-
-AppRegistry.registerComponent('AppShop', () => App);
+const AppName = 'AppShop';
+AppRegistry.registerComponent(AppName, () => App);
