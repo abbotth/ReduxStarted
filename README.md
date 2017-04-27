@@ -2,7 +2,7 @@ React Native With Redux <br/>
 Install
 <p>
 	<blockquote>
-		<strong>yarn install</strong> or <strong>npm install</strong>
+		<strong>npm install</strong>
 		<br/>
 	</blockquote>
 </p>
