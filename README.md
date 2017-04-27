@@ -29,6 +29,6 @@ Link all
 <p>
 Run App
 	<blockquote>
-		<strong>react-native run-android or react-native run-ios</strong>
+		<strong>react-native run-android</strong>  or <strong>react-native run-ios</strong>
 	</blockquote>
 </p>
