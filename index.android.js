@@ -3,4 +3,4 @@ import {
 } from 'react-native';
 import App from './app/App';
 
-AppRegistry.registerComponent('ReduxStarted', () => App);
+AppRegistry.registerComponent('AppShop', () => App);
