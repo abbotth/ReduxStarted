@@ -25,6 +25,12 @@ Link all
 		<strong>react-native link</strong>
 	</blockquote>
 </p>
+<p>
+	Remove node_modules in folder node_modules/react-native-router-flux 
+	<blockquote>
+        <strong>rm -fr node_modules/react-native-router-flux/node_modules</strong>
+    </blockquote>
+</p>
 
 <p>
 Run App
